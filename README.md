@@ -11,7 +11,9 @@ Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 ![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
 
 # Oggetti e ostacoli
-Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato un programma chiamato [Aseprite](https://www.aseprite.org) 
+Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato un programma chiamato [Aseprite](https://www.aseprite.org). \n
+ciao
+
 
 
 
