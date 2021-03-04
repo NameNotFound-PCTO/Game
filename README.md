@@ -1,6 +1,6 @@
 # Idea
 Il nostro gioco consiste nel far spostare dell'utente un carrello della spesa, attraverso il movimento del busto dove sarà posto un rettangolo di colore blu, e raccogliere la frutta che cade dal cielo evitando gli ostacoli. L'utente avrà a disposizione 3 vite e dovrà raggiungere il punteggio di 30 (30 frutti raccolti).
-Gioco programmato in python con l'utilizzo di pygame e OpenCV.
+
 
 
 # Blue color detection
@@ -21,6 +21,8 @@ Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 ![Bomba](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/bomba.png)
 
 
+# Tecnologie utilizzate
+Gioco realizzato in Python con [pyGame](https://www.pygame.org/news) e [openCV](https://opencv.org)
 
 
 
