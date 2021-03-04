@@ -23,6 +23,7 @@ Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 
 # Tecnologie utilizzate
 Gioco realizzato in Python con [pyGame](https://www.pygame.org/news) e [openCV](https://opencv.org).
+---
 Disegno pixelArt: [Aseprite](https://www.aseprite.org)
 
 
