@@ -23,11 +23,14 @@ Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 
 # Tecnologie utilizzate
 Gioco realizzato in Python con [pyGame](https://www.pygame.org/news) e [openCV](https://opencv.org).
----
 Disegno pixelArt: [Aseprite](https://www.aseprite.org)
 
 
-
-
 # Componenti gruppo
-Matteo Masia, Bongiovanni Daniele, Cora Nicolò, Cavaglieri Nicolò
+Matteo Masia (Game designer/developer), Bongiovanni Daniele (Sound designer/developer), Cora Nicolò (Game designer/developer), Cavaglieri Nicolò (Designer).
+
+# Ringraziamenti
+1. [IIT](https://www.iit.it) (Giacinto Barresi)
+3. [Associazione Italiana Sclerosi Multipla](https://www.aism.it) (Jessica Podda)
+4. [Università di Genova](https://unige.it/it/) (Prof. Riccardo Berta)
+5. [Wondertech](http://www.wondertechweb.com) (Giuseppe Gioco, Ivan Carmosino)
