@@ -11,7 +11,7 @@ Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 ![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
 
 # Oggetti e ostacoli
-Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato un programma chiamato [Aseprite](https://www.aseprite.org).
+Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato Aseprite.
 Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 
 ![Ananas](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ananasFinal.png)
@@ -22,7 +22,8 @@ Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 
 
 # Tecnologie utilizzate
-Gioco realizzato in Python con [pyGame](https://www.pygame.org/news) e [openCV](https://opencv.org)
+Gioco realizzato in Python con [pyGame](https://www.pygame.org/news) e [openCV](https://opencv.org).
+Disegno pixelArt: [Aseprite](https://www.aseprite.org)
 
 
 
