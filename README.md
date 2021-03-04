@@ -8,13 +8,12 @@ Gioco programmato in python con l'utilizzo di pygame e OpenCV.
 
 
 
+!(file:///Z:/1)%20Cartelle%20superiori/4a_superiore/pcto/immagini/png/ananasFinal.png)
 
 
 
 
 
 
-
-file:///Z:/1)%20Cartelle%20superiori/4a_superiore/pcto/immagini/png/ananasFinal.png
 # Componenti gruppo
 Matteo Masia, Bongiovanni Daniele, Cora Nicolò, Cavaglieri Nicolò
