@@ -7,7 +7,7 @@ Gioco programmato in python con l'utilizzo di pygame e OpenCV.
 
 
 
-
+![Ananas](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ananasFinal.png)
 
 
 
