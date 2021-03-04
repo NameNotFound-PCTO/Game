@@ -11,8 +11,14 @@ Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 ![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
 
 # Oggetti e ostacoli
-Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato un programma chiamato [Aseprite](https://www.aseprite.org). \n
-ciao
+Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato un programma chiamato [Aseprite](https://www.aseprite.org).
+Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
+
+![Ananas](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ananasFinal.png)
+![Banana](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/bananaFinal.png)
+
+![Coltello](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/coltello.png)
+![Bomba](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/bomba.png)
 
 
 
