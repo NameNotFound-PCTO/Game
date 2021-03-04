@@ -4,7 +4,7 @@ Gioco programmato in python con l'utilizzo di pygame e OpenCV.
 
 
 
-![Colore](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
+
 
 
 
