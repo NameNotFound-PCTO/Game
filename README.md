@@ -30,7 +30,7 @@ Disegno pixelArt: [Aseprite](https://www.aseprite.org)
 Matteo Masia (Game designer/developer), Bongiovanni Daniele (Sound designer/developer), Cora Nicolò (Game designer/developer), Cavaglieri Nicolò (Designer).
 
 # Ringraziamenti
-1. [IIT](https://www.iit.it) (Giacinto Barresi)
+1. [IIT](https://www.iit.it) (Giacinto Barresi, Carlo Canali)
 3. [Associazione Italiana Sclerosi Multipla](https://www.aism.it) (Jessica Podda)
 4. [Università di Genova](https://unige.it/it/) (Prof. Riccardo Berta)
 5. [Wondertech](http://www.wondertechweb.com) (Giuseppe Gioco, Ivan Carmosino)
