@@ -13,6 +13,9 @@ Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 Menù del gioco
 ![MenuGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/SfondoMenu.png)
 
+Esempio di gioco in azione
+![esempioDiGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/esempioDiGioco.png)
+
 # Oggetti e ostacoli
 Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato Aseprite.
 Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
