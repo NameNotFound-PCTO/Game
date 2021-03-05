@@ -45,9 +45,9 @@ Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 ![Nuvola4](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/nuvola4.png)
 ![Pera](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/peraFinal.png)
 ![Play](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/play.png)
-![Podio](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/podio.png)
 ![GameOver](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/gameOver.png)
 ![Legenda](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/legenda.png)
+![Podio](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/podio.png)
 
 
 
