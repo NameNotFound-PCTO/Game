@@ -18,7 +18,7 @@ Esempio di gioco in azione
 
 # Oggetti e ostacoli
 Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato Aseprite.
-Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
+Tutti questi oggetti sono delle pixelArt:
 
 ![Ananas](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ananasFinal.png)
 ![Anguria](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/anguriaFinal.png)
