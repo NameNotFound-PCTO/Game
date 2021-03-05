@@ -21,10 +21,35 @@ Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato Aseprite.
 Tutti questi oggetti sono delle pixelArt. Qui sotto degli esempi:
 
 ![Ananas](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ananasFinal.png)
+![Anguria](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/anguriaFinal.png)
+![Aancia](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/aranciaFinal.png)
+![Avocado](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/avocadoFinal.png)
 ![Banana](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/bananaFinal.png)
-
-![Coltello](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/coltello.png)
 ![Bomba](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/bomba.png)
+![CarrelloLeft](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/carrelloLeft.png)
+![CarrelloRight](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/carrelloRight.png)
+![Ciliegia](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/ciliegiaFinal.png)
+![Coltello](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/coltello.png)
+![Cuore1](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/cuore1.png)
+![Cuore2](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/cuore2.png)
+![Cuore3](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/cuore3.png)
+![Fragola](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/fragolaFinal.png)
+![Fungo](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/fungo.png)
+![Fungo1Up](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/fungo1Up.png)
+![Limone](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/limoneFinal.png)
+![Mela](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/melaFinal.png)
+![Meteora](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/meteora.png)
+![Nuvola1](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/nuvola1.png)
+![Nuvola2](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/nuvola2.png)
+![Nuvola3](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/nuvola3.png)
+![Nuvola4](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/nuvola4.png)
+![Pera](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/peraFinal.png)
+![Play](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/play.png)
+![Podio](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/podio.png)
+![GameOver](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/gameOver.png)
+![Legenda](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/legenda.png)
+
+
 
 
 # Tecnologie utilizzate
