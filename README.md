@@ -9,7 +9,7 @@ Per il movimento del busto abbiamo usato la libreria openCV con il color detecti
 
 Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 
-![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
+![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/code/color_dect_blue.jpeg)
 
 Menù del gioco
 ![MenuGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/images/esempioMenu.png)
