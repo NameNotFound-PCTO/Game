@@ -12,7 +12,7 @@ Grazie a questa abbiamo trovato il colore blu dalla telecamera.
 ![ColoreBlu](https://github.com/NameNotFound-PCTO/Game/blob/main/codice/color_dect_blue.jpeg)
 
 Menù del gioco
-![MenuGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/sfondoMenu.png)
+![MenuGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/images/esempioMenu.png)
 
 Esempio di gioco in azione
 ![esempioDiGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/pixel_art/esempioDiGioco.png)
