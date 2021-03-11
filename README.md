@@ -15,7 +15,7 @@ Menù del gioco
 ![MenuGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/images/esempioMenu.png)
 
 Esempio di gioco in azione
-![esempioDiGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/images/esempioDiGioco.png)
+![esempioDiGioco](https://github.com/NameNotFound-PCTO/Game/blob/main/images/esempioGame.png)
 
 # Oggetti e ostacoli
 Per disegnare gli oggetti e gli ostacoli del gioco abbiamo utilizzato Aseprite.
